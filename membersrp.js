@@ -20,7 +20,23 @@ const members = [
   { name: "Shazam Diff", fbId: "teerapat.chanbaen#" },
   { name: "Star Youngbxy", fbId: "star.youngbxy#" },
   { name: "Zegame Youngbxy", fbId: "zegame.shaw#" },
-  { name: "Johnsnow Youngbxy", fbId: "jonsnow.versegod#" }
+  { name: "Johnsnow Youngbxy", fbId: "jonsnow.versegod#" },
+  { name: "Fongwin Youngbxy", fbId: "fongwin.youngbxy" },
+  { name: "Jasper Youngbxy", fbId: "jasper.youngbxy" },
+  { name: "Jfew Youngbxy", fbId: "100084693087787" },
+  { name: "Porchi Youngbxy", fbId: "porchiyoungbxy" },
+  { name: "Tim Youngbxy", fbId: "61572834155901" },
+  { name: "Mersis Youngbxy", fbId: "193985213725811" },
+  { name: "Aomkod Youngbxy", fbId: "100086223190590" },
+  { name: "Waffle Youngbxy", fbId: "100088828847652" },
+  { name: "Jaywin Youngbxy", fbId: "100077533402083" },
+  { name: "JaoPoom Youngbxy", fbId: "jaopoom.jaopoom.jaopoom" },
+  { name: "Jaykorb Youngbxy", fbId: "100089167451479" },
+  { name: "Daff Youngbxy", fbId: "daff.daff.daff.2024#" },
+  { name: "Night Youngbxy", fbId: "61554319782586#" },
+  { name: "Tim Youngbxy", fbId: "61572834155901#" },
+  { name: "Meyou Youngbxy", fbId: "meyou.density.s#" },
+  { name: "Scott Scott", fbId: "scott.psaj#" }
 ];
 
 document.addEventListener("DOMContentLoaded", () => {
