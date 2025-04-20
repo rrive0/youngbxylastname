@@ -25,7 +25,6 @@ const members = [
   { name: "Jasper Youngbxy", fbId: "jasper.youngbxy" },
   { name: "Jfew Youngbxy", fbId: "100084693087787" },
   { name: "Porchi Youngbxy", fbId: "porchiyoungbxy" },
-  { name: "Tim Youngbxy", fbId: "61572834155901" },
   { name: "Mersis Youngbxy", fbId: "193985213725811" },
   { name: "Aomkod Youngbxy", fbId: "100086223190590" },
   { name: "Waffle Youngbxy", fbId: "100088828847652" },
