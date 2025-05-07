@@ -41,6 +41,8 @@ const members = [
   { name: "Star Stevens", fbId: "100081896779904#" },
   { name: "Jayr Youngbxy", fbId: "61572435358745#" },
   { name: "myflowmavelix", fbId: "100082644856368#" },
+  { name: "Lucia Youngbxy", fbId: "471767782336421#" },
+  { name: "Bebell Youngbxy", fbId: "100076773714725#" },
   { name: "Scott Scott", fbId: "scott.psaj#" }
 ];
 
