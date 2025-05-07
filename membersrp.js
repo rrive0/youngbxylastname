@@ -36,6 +36,11 @@ const members = [
   { name: "Tim Youngbxy", fbId: "61572834155901#" },
   { name: "Meyou Youngbxy", fbId: "meyou.density.s#" },
   { name: "biguan saikanying", fbId: "100082917805833#" },
+  { name: "Leen Youngbxy", fbId: "kaia.stackthatrack#" },
+  { name: "Lucia Judsungsud", fbId: "61555853680018#" },
+  { name: "Star Stevens", fbId: "100081896779904#" },
+  { name: "Jayr Youngbxy", fbId: "61572435358745#" },
+  { name: "myflowmavelix", fbId: "100082644856368#" },
   { name: "Scott Scott", fbId: "scott.psaj#" }
 ];
 
